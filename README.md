@@ -1,1 +1,7 @@
-lkcsdjdhjkdchsjdkc
+# YAZILIM 
+## NELER ÖĞRENDİM
+* İF,ELSE,ELİF
+* WHİLE
+* İN VE FOR
+* DEF
+  
