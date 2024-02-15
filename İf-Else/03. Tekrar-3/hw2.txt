@@ -1,0 +1,6 @@
+2)  Bir üçgenin iç açıları toplamı 180 derecedir. 
+Kullanıcının girdiği üç açı değerine göre “Bu bir üçgendir.” ya da “Bu bir üçgen değildir.” çıktıları veren kodu yazınız. 
+k1
+k2 
+k3 tanımlıcaz 180 büyükse üçgen değil veya küçükdeğilse üçgen
+180 eşitse ücgen değildir

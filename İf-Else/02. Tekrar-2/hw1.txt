@@ -1,0 +1,7 @@
+  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. 
+Girilen 3 notun ortalaması 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+iki sınav ortalamsı alacaz ve perfonmas alcak
+toplam tanımlıca 3 bölüncek 
+ortalama 50 k başarısıaz 
+50 büyük 

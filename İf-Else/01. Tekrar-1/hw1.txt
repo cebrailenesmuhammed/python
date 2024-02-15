@@ -1,0 +1,7 @@
+1  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması
+50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+1 kulllanın cıdan sınav otu isticek 
+2 iki sınav notu bi  tanede perfonrmans notu istcek 
+50 küçük ise başarısız büyük ise “Başarılı” 
+

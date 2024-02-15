@@ -1,0 +1,7 @@
+ Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; değilse 
+“Kullanıcı adı ya da şifre yanlış” çıktıları veren
+
+1.kullanıncı tanımlıcaz 
+2.şifre  tanımlıcaz
+3.eğer şifre yanlış ise şifre yanlış yazcak
+4.eğer kullanınca yanlış ise kullanınca yanlış diğecek 

@@ -1,0 +1,6 @@
+Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve altıysa “Ödenecek miktar=…. 
+TL”; 200 TL’yi geçerse %25 indirim yaparak “Ödenecek miktar, indirimden sonra ….. TL’di
+
+iki tane kıyafet  tanımlıcaz 
+sonra 200 liradan fazlaysa 25 indirm yapılcak
+ödencek miktarı yazucaza

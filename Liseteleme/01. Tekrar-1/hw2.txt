@@ -1,0 +1,4 @@
+2) En sevdiğiniz 3 meyveyi liste hâline getirerek ekrana yazdırınız. 
+
+muz çilek şeftali yazıcaz ve meyve tanımlıcaz
+ 

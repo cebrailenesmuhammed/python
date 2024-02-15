@@ -1,0 +1,4 @@
+1)  0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+sayı taanımlıcaz 0 20 arassı sayı yazıdırcaz
+ve %2 alacaz 

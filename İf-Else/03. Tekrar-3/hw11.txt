@@ -1,0 +1,6 @@
+11) Üçgenler kenar uzunluklarına göre üçe ayrılmaktadır: Eşkenar, İkizkenar ve Çeşitkenar. 
+Kullanıcının girdiği 3 kenar uzunluğuna göre üçgenin türünü ekrana yazdırınız. 
+kenar1
+kenar2
+kenar3 tanımlıcaz eşkenarsa hepsi eşit
+ikizkenar iki kenarlar eşit olucak 

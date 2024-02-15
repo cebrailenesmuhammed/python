@@ -1,0 +1,3 @@
+14)   Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+üç tane sayı tanımlıcaz 
+ve max yazıpı küçükten büyü sıralıcaz

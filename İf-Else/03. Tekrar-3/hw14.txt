@@ -1,0 +1,2 @@
+14)   Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+s1 s2 s3 tanımlıcaz ve max yazıpen büyügü alcaz

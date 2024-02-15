@@ -1,0 +1,5 @@
+1)  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse
+“Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+1 sınav 
+2 sınavperfonmas tanımlıcaz ve 3 tane sınavı toplyıp caz 
+3 bölüp ortalamsını alcaz

@@ -1,0 +1,7 @@
+  Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız.
+  sayı1
+  sayı2,
+  sayı
+  toplam
+  ortalama tnımlanacak
+  

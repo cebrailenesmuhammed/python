@@ -1,0 +1,6 @@
+ Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız.
+
+sayı1 
+sayı2
+tanımlıcaz
+toplam tanımlıcaz 

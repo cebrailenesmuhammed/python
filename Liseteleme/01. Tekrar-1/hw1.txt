@@ -1,0 +1,2 @@
+1) Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız
+haftanın günlerini yazıp listeyicez

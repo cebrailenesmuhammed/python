@@ -1,0 +1,4 @@
+2)  60-30 (30 dâhil değil) arasındaki çift sayıları azalan sırada while döngüsü ile ekrana yazdırınız. 
+
+60 ve 30 dahildeğil çift sayıları yazdırcaz 
+30 küçük ve 2 bölücez

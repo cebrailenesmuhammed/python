@@ -1,0 +1,5 @@
+  Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+sayı1 
+sayı2 
+sayı3 tanımlıcazz ve max  taanmlıcaza  

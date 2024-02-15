@@ -1,0 +1,4 @@
+20 ile 50 arasındaki (50 dâhil) çift sayıların toplamını bulan programı while döngüsü ile yazınız.
+
+sayı tanımlıcaz
+50 dahil olucak şekilde

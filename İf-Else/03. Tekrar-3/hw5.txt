@@ -1,0 +1,5 @@
+5) Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 
+ise “Giriş başarılı”; değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren 
+kodu yazınız. 
+
+ad  tanımlıcaz ve şifre tanımlıcaz  ad türkiye şiferre e  1923 OLUCAK VE  eşit yapcZ 
